@@ -56,7 +56,7 @@ html,body {
 }
 
 .spaceBetweenSections {
-	padding-bottom: : 7px;
+	padding-bottom: 15px;
 }
 
 .textInBox {
@@ -107,6 +107,11 @@ html,body {
 	.displayFlex {
 		display: flex;
 		flex-wrap: wrap;
+	}
+
+	.items-panels-wrapper {
+    	padding-left: 50px !important;
+    	padding-right: 50px !important;
 	}
 }
 
